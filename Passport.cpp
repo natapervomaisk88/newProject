@@ -4,7 +4,7 @@
 
 Passport::Passport()
 {
-	std::cout << "Passport()\n";
+	std::cout << "Passport()";
 }
 
 Passport::Passport(std::string name, std::string surname, long number, std::string series)
