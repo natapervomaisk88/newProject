@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ForeignPassport" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <Members>
+      <Method Name="addVisas" Hidden="true" />
+      <Method Name="deleteVisas" Hidden="true" />
+      <Method Name="ForeignPassport" Hidden="true" />
+      <Method Name="input" Hidden="true" />
+      <Method Name="output" Hidden="true" />
+      <Method Name="showAllVisas" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQAAAAAAAAACAgAABAAQAAIAAAAAAA=</HashCode>
+      <FileName>ForeignPassport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Passport" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAQEAABFAEAAAACAAEEBBBAAAEAAQAAAA=</HashCode>
+      <FileName>Passport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
